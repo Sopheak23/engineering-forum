@@ -1,5 +1,5 @@
 beautifulsoup4<4.8
-bleach<3.2
+bleach<3.4
 celery[redis]
 django<2
 djangorestframework<3.7
