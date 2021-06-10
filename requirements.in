@@ -1,7 +1,7 @@
 beautifulsoup4<4.8
 bleach<3.2
 celery[redis]
-django<2
+django<3
 djangorestframework<3.7
 django-debug-toolbar<1.12
 django-htmlmin<0.11
